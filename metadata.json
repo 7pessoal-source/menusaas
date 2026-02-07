@@ -1,0 +1,7 @@
+{
+  "name": "MenuSaaS - Digital Menu Platform",
+  "description": "A multi-tenant digital menu SaaS for restaurants with individual admin panels and public digital menus.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
